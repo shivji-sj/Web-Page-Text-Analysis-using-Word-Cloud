@@ -13,6 +13,9 @@ A word cloud (also known as a tag cloud) is a visual representation of words. Cl
 
 
 Scope of this project:
+
     1 ) Faster Text Analysis using Word Cloud 
+    
     2 ) It can be used to analyze any qualitative data.
+    
     3 ) It also use in Business to take decision based on the market trends of items  using wordcloud
