@@ -7,12 +7,12 @@ In this project, We used word cloud to the analysis of the text in the Extracted
     2. Creating Word Cloud of the Web page text
     
     
-Why WORDCLOUD ? 
+## Why WORDCLOUD ? 
 
 A word cloud (also known as a tag cloud) is a visual representation of words. Cloud creators are used to highlight popular words and phrases based on frequency and relevance. They provide you with quick and simple visual insights that can lead to more in-depth analyses.
 
 
-Scope of this project:
+## Scope of this project:
 
     1 ) Faster Text Analysis using Word Cloud 
     
